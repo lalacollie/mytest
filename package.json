@@ -19,7 +19,12 @@
     "@angular/platform-browser": "~8.2.12",
     "@angular/platform-browser-dynamic": "~8.2.12",
     "@angular/router": "~8.2.12",
+    "cordova-android": "^8.1.0",
+    "cordova-common": "^3.2.1",
+    "cordova-plugin-device": "^2.0.3",
+    "properties-parser": "^0.3.1",
     "rxjs": "~6.4.0",
+    "shelljs": "^0.8.3",
     "tslib": "^1.10.0",
     "zone.js": "~0.9.1"
   },
