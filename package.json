@@ -24,7 +24,7 @@
     "cordova-plugin-device": "^2.0.3",
     "properties-parser": "^0.3.1",
     "rxjs": "~6.4.0",
-    "shelljs": "^0.8.3",
+    "shelljs": "^0.8.5",
     "tslib": "^1.10.0",
     "zone.js": "~0.9.1"
   },
